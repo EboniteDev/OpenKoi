@@ -1,4 +1,5 @@
 # ART-LICENSE.md
+Art License
 
 Copyright (c) 2026–Present OpenKoi  
 Copyright (c) 2026–Present EboniteDev
