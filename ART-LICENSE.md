@@ -1,8 +1,8 @@
 # ART-LICENSE.md
 Art License
 
-Copyright (c) 2026–Present OpenKoi  
-Copyright (c) 2026–Present EboniteDev
+Copyright (c) 2026–Present OpenKoi
+Copyright (c) 2026–Present ebonite_dev
 
 The artwork, icons, and logos included in this project are the exclusive property of the copyright owner, if not otherwise stated.
 No license or right to use, reproduce, modify, distribute, or publicly display these assets is granted to any person or entity, except as explicitly agreed in a separate written agreement with the copyright owner, sent over email and, for verification purpouses, signed with PGP proofs and SHA‑512 of the text file that contains the contents of said email.
